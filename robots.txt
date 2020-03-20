@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aekahbawo.vercode.org/sitemap.xml
